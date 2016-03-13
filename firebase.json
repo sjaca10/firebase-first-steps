@@ -1,0 +1,9 @@
+{
+  "firebase": "fb-first-steps",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
